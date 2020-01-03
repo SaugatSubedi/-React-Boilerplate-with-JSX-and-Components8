@@ -1,0 +1,27 @@
+{
+  "name": "-React-Boilerplate-with-JSX-and-Components8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaugatSubedi/-React-Boilerplate-with-JSX-and-Components8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaugatSubedi/-React-Boilerplate-with-JSX-and-Components8/issues"
+  },
+  "homepage": "https://github.com/SaugatSubedi/-React-Boilerplate-with-JSX-and-Components8#readme",
+  "dependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-arrow-functions": "^7.7.4"
+  }
+}
